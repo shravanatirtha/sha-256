@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=sha256
+comment1.params=hash
+comment1.target=java.lang.String\ toHexString(byte[])
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3
